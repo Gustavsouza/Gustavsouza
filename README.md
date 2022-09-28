@@ -10,9 +10,9 @@
   <a href="https://github.com/GustavSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  ![Snake animation](https://github.com/Gustavosouza/Gustavosouza/blob/output/github-contribution-grid-snake.svg)
-  
+
+  ![snake gif](https://github.com/GustavoSouza/GustavoSouza/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
  
   
