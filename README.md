@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Gustavsouza/Gustavsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em uma empresa de TI voltada ao desenvolvimento de sistemas e processamento de dados
+- 🌱 Estou aprendendo desenvolvimento web
+- 📫 Como chegar até mim: Linkedin: https://www.linkedin.com/in/aramis16/ Email: Gustavodesouza321@outlook.com
+
+<div align="center">
+  <a href="https://github.com/GustavSouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavSouza&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div> 
+
+  ![Snake animation](https://github.com/GustavSouza/GustavSouza/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+  
+  
+ 
+  
