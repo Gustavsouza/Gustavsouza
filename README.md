@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estou trabalhando em uma empresa de TI voltada ao desenvolvimento de sistemas e processamento de dados
-- 🌱 Estou aprendendo desenvolvimento web
+- 🔭 Atualmente estou trabalhando em uma empresa de TI voltada ao desenvolvimento de sistemas e atuo como desenvolvedor backend
+- 🌱 Estou aprendendo desenvolvimento web 
 - 📫 Como chegar até mim: Linkedin: https://www.linkedin.com/in/aramis16/ Email: Gustavodesouza321@outlook.com
 
 <div align="center">
