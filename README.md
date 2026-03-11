@@ -50,15 +50,7 @@
 
 </p>
 
----
 
-# 🏆 Troféus do GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GustavSouza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</p>
 
 ---
 
