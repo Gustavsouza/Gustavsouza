@@ -66,6 +66,6 @@
 
 <p align="center">
 
-![snake gif](https://github.com/GustavSouza/GustavSouza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/GustavSouza/GustavSouza/output/github-contribution-grid-snake-dark.svg)
 
 </p>
