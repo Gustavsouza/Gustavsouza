@@ -64,8 +64,6 @@
 
 ---
 
-# 🐍 Snake comendo suas contribuições
-
 <p align="center">
 
 ![snake gif](https://github.com/GustavSouza/GustavSouza/blob/output/github-contribution-grid-snake.svg)
